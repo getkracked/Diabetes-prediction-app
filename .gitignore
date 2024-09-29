@@ -1,0 +1,34 @@
+# Virtual environments
+venv/
+.venv/
+diabetes_env/
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+
+# Model files
+*.h5
+*.pb
+*.pt
+
+# Dataset files
+/data/
+*.csv
+*.json
+
+# Logs and outputs
+*.log
+*.out
+/logs/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# Temporary files
+*.tmp
+*.swp
+
+# IDE-specific files
+.vscode/
+.idea/
