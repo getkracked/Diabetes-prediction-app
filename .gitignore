@@ -8,13 +8,11 @@ __pycache__/
 *.py[cod]
 
 # Model files
-*.h5
 *.pb
 *.pt
 
 # Dataset files
 /data/
-*.csv
 *.json
 
 # Logs and outputs
